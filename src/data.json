@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "General",
+            "links": [
+                {
+                    "id": 100,
+                    "name": "Vox: Culture",
+                    "link": "https://www.vox.com/culture",
+                    "icon": ""
+                },
+                {
+                    "id": 101,
+                    "name": "Buzzfeed",
+                    "link": "https://www.buzzfeed.com",
+                    "icon": ""
+                },
+                {
+                    "id": 102,
+                    "name": "AITA Subreddit",
+                    "link": "https://www.buzzfeed.com",
+                    "icon": "https://www.reddit.com/r/AmItheAsshole/"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Dungeons & Dragons",
+            "links": [
+                {
+                    "id": 200,
+                    "name": "Ghosts of Saltmarsh Campaign",
+                    "link": "https://www.dndbeyond.com/campaigns/1747416",
+                    "icon": ""
+                },
+                {
+                    "id": 201,
+                    "name": "5e Tools",
+                    "link": "",
+                    "icon": ""
+                }
+            ]
+        }
+    ]
+}
