@@ -5,14 +5,9 @@ import data from "./data.json";
 function App() {
   return (
     <div className="App">
-      <div>
-        {data.data.map((sec) => {
-          <Section name={sec.name} links={sec.links} />
-        })}
-      </div>
-
-      <Section name={"Testing"} />
-      <div>Hullo</div>
+      {data.data.map((tester) => {
+        return <Section name={tester.name} links={tester.links} color={tester.color} />
+      })}
     </div>
   );
 }

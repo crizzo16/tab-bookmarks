@@ -3,42 +3,223 @@
         {
             "id": 1,
             "name": "General",
+            "color": "#ab4571",
             "links": [
                 {
                     "id": 100,
                     "name": "Vox: Culture",
                     "link": "https://www.vox.com/culture",
-                    "icon": ""
+                    "icon": "https://cdn.vox-cdn.com/thumbor/REwdWM3Wwgn4IaYEi5AekzezGaM=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66622762/voxlogo.0.jpg"
                 },
                 {
                     "id": 101,
                     "name": "Buzzfeed",
                     "link": "https://www.buzzfeed.com",
-                    "icon": ""
+                    "icon": "https://m.media-amazon.com/images/I/41n8Q9FEMAL.png"
                 },
                 {
                     "id": 102,
                     "name": "AITA Subreddit",
-                    "link": "https://www.buzzfeed.com",
-                    "icon": "https://www.reddit.com/r/AmItheAsshole/"
+                    "link": "https://www.reddit.com/r/AmItheAsshole/",
+                    "icon": "https://www.investopedia.com/thmb/qDGHg2MCiUni812bkWihr-qdBbM=/1600x900/filters:no_upscale():max_bytes(150000):strip_icc()/Reddit-Logo-e9537b96b55349ac8eb77830f8470c95.jpg"
+                },
+                {
+                    "id": 103,
+                    "name": "Twitter",
+                    "link": "https://twitter.com/home",
+                    "icon": "http://store-images.s-microsoft.com/image/apps.50484.9007199266244427.4d45042b-d7a5-4a83-be66-97779553b24d.2c71c1ea-c28f-4dd1-b72d-c43cdd3476f4"
+                },
+                {
+                    "id": 104,
+                    "name": "Tumblr",
+                    "link": "https://www.tumblr.com/",
+                    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tumblr.svg/2048px-Tumblr.svg.png"
+                },
+                {
+                    "id": 105,
+                    "name": "Not Always Right",
+                    "link": "https://notalwaysright.com/",
+                    "icon": "https://i.pinimg.com/736x/30/88/b7/3088b746eb3dabc015e7e28ee7aae13a.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Video",
+            "color": "#104abc",
+            "links": [
+                {
+                    "id": 300,
+                    "name": "Youtube",
+                    "link": "https://www.youtube.com",
+                    "icon": "https://yt3.googleusercontent.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s900-c-k-c0x00ffffff-no-rj"
+                },
+                {
+                    "id": 301,
+                    "name": "Netflix",
+                    "link": "https://www.netflix.com/browse",
+                    "icon": "https://yt3.ggpht.com/ytc/AMLnZu8ez2zjv7E2Sp0qzjYCnrpBMLMm5c26MJkGBIQHww=s900-c-k-c0x00ffffff-no-rj"
+                },
+                {
+                    "id": 302,
+                    "name": "Hulu",
+                    "link": "https://www.hulu.com/hub/home",
+                    "icon": "https://assetshuluimcom-a.akamaihd.net/h3o/facebook_share_thumb_default_hulu.jpg"
+                },
+                {
+                    "id": 303,
+                    "name": "Prime Video",
+                    "link": "https://www.amazon.com/gp/video/storefront?filterId=OFFER_FILTER=PRIME",
+                    "icon": "http://store-images.s-microsoft.com/image/apps.32357.14618985536919905.4b30e4f3-f7a1-4421-840c-2cc97b10e8e0.6e7a96f1-33ad-4447-8e2b-7de730f9a05e"
+                },
+                {
+                    "id": 304,
+                    "name": "Disney+",
+                    "link": "https://www.disneyplus.com/home",
+                    "icon": "https://play-lh.googleusercontent.com/xoGGYH2LgLibLDBoxMg-ZE16b-RNfITw_OgXBWRAPin2FZY4FGB9QKBYApR-0rSCkQ=w240-h480-rw"
+                },
+                {
+                    "id": 305,
+                    "name": "Peacock",
+                    "link": "https://www.peacocktv.com",
+                    "icon": "https://play-lh.googleusercontent.com/tmGaBmInLjXVZIb4lWe5-LXINRP2RiY77Vg_hOLu-rxXBsY9vKC78A_A3Pkyx9vNBE8"
                 }
             ]
         },
         {
             "id": 2,
             "name": "Dungeons & Dragons",
+            "color": "#8bef11",
             "links": [
                 {
                     "id": 200,
                     "name": "Ghosts of Saltmarsh Campaign",
                     "link": "https://www.dndbeyond.com/campaigns/1747416",
-                    "icon": ""
+                    "icon": "https://assets.dicebreaker.com/dungeons-and-dragons-ghosts-of-saltmarsh-campaign-sourcebook.jpg/BROK/thumbnail/1200x900/quality/100/dungeons-and-dragons-ghosts-of-saltmarsh-campaign-sourcebook.jpg"
                 },
                 {
                     "id": 201,
                     "name": "5e Tools",
-                    "link": "",
-                    "icon": ""
+                    "link": "https://5e.tools/",
+                    "icon": "https://avatars.githubusercontent.com/u/52295794?s=280&v=4"
+                },
+                {
+                    "id": 202,
+                    "name": "2 Minute Tokens",
+                    "link": "https://tools.2minutetabletop.com/token-editor/index.php",
+                    "icon": "https://2minutetabletop.com/wp-content/uploads/2019/01/Hero-Tokens-2-prefabs.jpg"
+                },
+                {
+                    "id": 203,
+                    "name": "Planning Spreadsheet",
+                    "link": "https://docs.google.com/spreadsheets/d/1iz9fObSKf_9CCNHL5P5TA68oF_LawZ9wfHynvaj08sE/edit#gid=0",
+                    "icon": "https://i.pinimg.com/originals/e8/3a/01/e83a018ec5b9697723d4edc40cb12401.jpg"
+                },
+                {
+                    "id": 204,
+                    "name": "Session Notes",
+                    "link": "https://drive.google.com/drive/folders/1efKfdmo3sM8CDEgpSp48mKqEcAEIijBf",
+                    "icon": "https://clickup.com/blog/wp-content/uploads/2020/01/note-taking.png"
+                },
+                {
+                    "id": 205,
+                    "name": "Fantasy Name Generator",
+                    "link": "https://www.fantasynamegenerators.com/",
+                    "icon": "https://lh3.googleusercontent.com/bSOQerxwEf5v2JFbJV-Fow_wVlpmfhOMr149fvYdR3GXGMTpXk-uGTlVCGsJRAEYi9gKilCofdPGJVZSGVMh5YfUWw=w640-h400-e365-rj-sc0x00ffffff"
+                },
+                {
+                    "id": 206,
+                    "name": "My Characters",
+                    "link": "https://www.dndbeyond.com/characters",
+                    "icon": "https://i.pinimg.com/564x/65/49/1c/65491c762aa43aa6ce0143daf48e6aca.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Learning",
+            "color": "#f302b8",
+            "links": [
+                {
+                    "id": 400,
+                    "name": "Duolingo",
+                    "link": "https://preview.duolingo.com/learn",
+                    "icon": "https://www.duolingo.com/images/facebook/duo200.png"
+                },
+                {
+                    "id": 401,
+                    "name": "Focusmate",
+                    "link": "https://www.focusmate.com/dashboard",
+                    "icon": "https://www.daily.co/blog/content/images/2021/10/Directory-Image-Focusmate.jpg"
+                },
+                {
+                    "id": 402,
+                    "name": "Memrise",
+                    "link": "https://app.memrise.com/dashboard",
+                    "icon": "https://play-lh.googleusercontent.com/eooMtOtVjJzq7fCS4G--Iy3jY8QvFEzdsoWMcO5Z_mJOilep2Wu_aZLJjTP9SOF_9jU=w600-h300-pc0xffffff-pd"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Niche",
+            "color": "#2b47ff",
+            "links": [
+                {
+                    "id": 500,
+                    "name": "Eurovision 2023",
+                    "link": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2023",
+                    "icon": "https://www.esc-plus.com/wp-content/uploads/2022/10/Eurovision-2023-Logo.jpg"
+                },
+                {
+                    "id": 501,
+                    "name": "American Films of 2023",
+                    "link": "https://en.wikipedia.org/wiki/List_of_American_films_of_2023",
+                    "icon": "https://storage.googleapis.com/afs-prod/media/e53811360eed4b8ba26b5f635d703a7c/3000.jpeg"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Fun Little Things",
+            "color": "#78b200",
+            "links": [
+                {
+                    "id": 600,
+                    "name": "Darths & Droids",
+                    "link": "https://darthsanddroids.net/",
+                    "icon": "https://darthsanddroids.net/logo_2x.png"
+                },
+                {
+                    "id": 601,
+                    "name": "Jax Webcomic",
+                    "link": "https://www.webtoons.com/en/challenge/jax/list?title_no=216915&page=1",
+                    "icon": "https://64.media.tumblr.com/e5d8159659f1208cbd2d08aa8e57f5f8/b9c7ec6cbf2170b0-ce/s1280x1920/ef1285f8ee54f97bdfa90f200535521bd4bf5a0a.jpg"
+                },
+                {
+                    "id": 602,
+                    "name": "Wordle",
+                    "link": "https://www.nytimes.com/games/wordle/index.html",
+                    "icon": "https://images.macrumors.com/t/zOCafmfJYd6tJf2Bju7xoICoVt8=/1200x1200/smart/article-new/2022/01/wordle.jpg"
+                },
+                {
+                    "id": 603,
+                    "name": "DM of the Rings",
+                    "link": "https://www.shamusyoung.com/twentysidedtale/?cat=631",
+                    "icon": "https://www.shamusyoung.com/twentysidedtale/images/MyheartV3.png"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Current Projects",
+            "color": "#4ab231",
+            "links": [
+                {
+                    "id": 700,
+                    "name": "Young Avengers Legendary Playmat",
+                    "link": "https://www.figma.com/file/zWtQZlJwoQQzjX0yw2Xe6E/Signs?node-id=234%3A328&t=VEpRcIEFgM050HeZ-0",
+                    "icon": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/12/young-avengers.jpg"
                 }
             ]
         }

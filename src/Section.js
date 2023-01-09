@@ -1,13 +1,18 @@
+import React from "react";
 import Link from "./Link";
 
 function Section(props) {
     return (
-        <div className="sec">
-            <h1>{props.name}</h1>
-            <div className="bookmarks">
-
+        <React.Fragment>
+            <div>
+                <div className="sec-header" style={{backgroundColor: props.color}}>
+                    <h3>{props.name}</h3>
+                </div>
             </div>
-        </div>
+            {props.links.map((eagle) => {
+                return <Link name={eagle.name} icon={eagle.icon} link={eagle.link}  />
+            })}
+        </React.Fragment>
     );
 }
 
