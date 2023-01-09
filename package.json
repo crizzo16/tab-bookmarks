@@ -1,5 +1,6 @@
 {
   "name": "tab-bookmarks",
+  "homepage": "https://crizzo16.github.io/tab-bookmarks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
