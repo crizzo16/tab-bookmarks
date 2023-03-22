@@ -12,6 +12,12 @@
                     "icon": "https://cdn.vox-cdn.com/thumbor/REwdWM3Wwgn4IaYEi5AekzezGaM=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66622762/voxlogo.0.jpg"
                 },
                 {
+                    "id": 106,
+                    "name": "The Ringer",
+                    "link": "https://www.theringer.com/",
+                    "icon": "https://cdn.vox-cdn.com/thumbor/xyKcDd6HsdrK-hhKXDHw0MCCtlc=/311x0:808x373/1200x800/filters:focal(311x0:808x373)/cdn.vox-cdn.com/uploads/chorus_image/image/55907869/1_hSx6ZiEpVcaIymxp8py07w.0.jpeg"
+                },
+                {
                     "id": 101,
                     "name": "Buzzfeed",
                     "link": "https://www.buzzfeed.com",
