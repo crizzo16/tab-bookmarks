@@ -89,6 +89,12 @@
                     "name": "Peacock",
                     "link": "https://www.peacocktv.com",
                     "icon": "https://play-lh.googleusercontent.com/tmGaBmInLjXVZIb4lWe5-LXINRP2RiY77Vg_hOLu-rxXBsY9vKC78A_A3Pkyx9vNBE8"
+                },
+                {
+                    "id": 306,
+                    "name": "Max",
+                    "link": "https://play.max.com/",
+                    "icon": "https://pyxis.nymag.com/v1/imgs/445/615/ff34bec646b77434336575aa2aa07c15c0-max--.1x.rsquare.w1400.jpg"
                 }
             ]
         },
@@ -173,14 +179,14 @@
             "links": [
                 {
                     "id": 500,
-                    "name": "Eurovision 2023",
-                    "link": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2023",
+                    "name": "Eurovision 2024",
+                    "link": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2024",
                     "icon": "https://www.esc-plus.com/wp-content/uploads/2022/10/Eurovision-2023-Logo.jpg"
                 },
                 {
                     "id": 501,
-                    "name": "American Films of 2023",
-                    "link": "https://en.wikipedia.org/wiki/List_of_American_films_of_2023",
+                    "name": "American Films of 2024",
+                    "link": "https://en.wikipedia.org/wiki/List_of_American_films_of_2024",
                     "icon": "https://storage.googleapis.com/afs-prod/media/e53811360eed4b8ba26b5f635d703a7c/3000.jpeg"
                 }
             ]
