@@ -12,16 +12,10 @@
                     "icon": "https://cdn.vox-cdn.com/thumbor/REwdWM3Wwgn4IaYEi5AekzezGaM=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66622762/voxlogo.0.jpg"
                 },
                 {
-                    "id": 106,
+                    "id": 101,
                     "name": "The Ringer",
                     "link": "https://www.theringer.com/",
                     "icon": "https://cdn.vox-cdn.com/thumbor/xyKcDd6HsdrK-hhKXDHw0MCCtlc=/311x0:808x373/1200x800/filters:focal(311x0:808x373)/cdn.vox-cdn.com/uploads/chorus_image/image/55907869/1_hSx6ZiEpVcaIymxp8py07w.0.jpeg"
-                },
-                {
-                    "id": 101,
-                    "name": "Buzzfeed",
-                    "link": "https://www.buzzfeed.com",
-                    "icon": "https://m.media-amazon.com/images/I/41n8Q9FEMAL.png"
                 },
                 {
                     "id": 102,
@@ -31,18 +25,24 @@
                 },
                 {
                     "id": 103,
-                    "name": "Twitter",
-                    "link": "https://twitter.com/home",
-                    "icon": "http://store-images.s-microsoft.com/image/apps.50484.9007199266244427.4d45042b-d7a5-4a83-be66-97779553b24d.2c71c1ea-c28f-4dd1-b72d-c43cdd3476f4"
+                    "name": "Bluesky",
+                    "link": "https://bsky.app/",
+                    "icon": "https://pbs.twimg.com/profile_images/1738291333268377600/QjJngnVB_400x400.jpg"
                 },
                 {
                     "id": 104,
+                    "name": "Threads",
+                    "link": "https://www.threads.net/",
+                    "icon": "https://i0.wp.com/heart-england.co.uk/wp-content/uploads/2023/07/1-threads%20logo-black.png?fit=1616%2C1616&ssl=1"
+                },
+                {
+                    "id": 105,
                     "name": "Tumblr",
                     "link": "https://www.tumblr.com/",
                     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tumblr.svg/2048px-Tumblr.svg.png"
                 },
                 {
-                    "id": 105,
+                    "id": 106,
                     "name": "Not Always Right",
                     "link": "https://notalwaysright.com/newest",
                     "icon": "https://i.pinimg.com/736x/30/88/b7/3088b746eb3dabc015e7e28ee7aae13a.jpg"
@@ -153,12 +153,6 @@
             "color": "#f302b8",
             "links": [
                 {
-                    "id": 400,
-                    "name": "Duolingo",
-                    "link": "https://preview.duolingo.com/learn",
-                    "icon": "https://www.duolingo.com/images/facebook/duo200.png"
-                },
-                {
                     "id": 401,
                     "name": "Focusmate",
                     "link": "https://www.focusmate.com/dashboard",
@@ -179,8 +173,8 @@
             "links": [
                 {
                     "id": 500,
-                    "name": "Eurovision 2024",
-                    "link": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2024",
+                    "name": "Eurovision 2025",
+                    "link": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2025",
                     "icon": "https://www.esc-plus.com/wp-content/uploads/2022/10/Eurovision-2023-Logo.jpg"
                 },
                 {
@@ -188,6 +182,12 @@
                     "name": "American Films of 2024",
                     "link": "https://en.wikipedia.org/wiki/List_of_American_films_of_2024",
                     "icon": "https://storage.googleapis.com/afs-prod/media/e53811360eed4b8ba26b5f635d703a7c/3000.jpeg"
+                },
+                {
+                    "id": 501,
+                    "name": "American Films of 2025",
+                    "link": "https://en.wikipedia.org/wiki/List_of_American_films_of_2025",
+                    "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a85bd3d0-0800-41cd-ab52-7c8d3c26a270/da90kvg-ba3b32ba-da4d-4a2a-9c2b-4a5b9d81dcf1.png/v1/fill/w_752,h_1062,q_70,strp/my_movie_poster_collage_by_masonartcarr_da90kvg-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0NSIsInBhdGgiOiJcL2ZcL2E4NWJkM2QwLTA4MDAtNDFjZC1hYjUyLTdjOGQzYzI2YTI3MFwvZGE5MGt2Zy1iYTNiMzJiYS1kYTRkLTRhMmEtOWMyYi00YTViOWQ4MWRjZjEucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.V94jA5kHYCdAdL1sztm5TuJo-UcQliNibSQG1WRa3TI"
                 }
             ]
         },
@@ -213,24 +213,6 @@
                     "name": "Wordle",
                     "link": "https://www.nytimes.com/games/wordle/index.html",
                     "icon": "https://images.macrumors.com/t/zOCafmfJYd6tJf2Bju7xoICoVt8=/1200x1200/smart/article-new/2022/01/wordle.jpg"
-                },
-                {
-                    "id": 604,
-                    "name": "Critical Role Tiktok",
-                    "link": "https://www.tiktok.com/@criticalrole?lang=en",
-                    "icon": "https://yt3.googleusercontent.com/iXs743mIrUqkDBGmkZzLjS8Pi8MofkaU9FtZsjwHf2cHLBG0uPrRpQjnOFYSoDxzGrrFgjTC=s900-c-k-c0x00ffffff-no-rj"
-                },
-                {
-                    "id": 605,
-                    "name": "B. Dylan Hollis TikTok",
-                    "link": "https://www.tiktok.com/@bdylanhollis?lang=en",
-                    "icon": "https://yt3.googleusercontent.com/ytc/AL5GRJVe12ZByDlA2BRWJeVw98CRXhUsY7yZjS786j037g=s900-c-k-c0x00ffffff-no-rj"
-                },
-                {
-                    "id": 606,
-                    "name": "Tom Cardy TikTok",
-                    "link": "https://www.tiktok.com/@tomcardy?lang=en",
-                    "icon": "https://pbs.twimg.com/profile_images/1420620989180772356/Zx1AnIS__400x400.jpg"
                 },
                 {
                     "id": 607,
