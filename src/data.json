@@ -58,7 +58,7 @@
                     "id": 300,
                     "name": "Youtube",
                     "link": "https://www.youtube.com",
-                    "icon": "https://yt3.googleusercontent.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s900-c-k-c0x00ffffff-no-rj"
+                    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/2048px-YouTube_play_button_square_%282013-2017%29.svg.png"
                 },
                 {
                     "id": 301,
@@ -95,6 +95,12 @@
                     "name": "Max",
                     "link": "https://play.max.com/",
                     "icon": "https://pyxis.nymag.com/v1/imgs/445/615/ff34bec646b77434336575aa2aa07c15c0-max--.1x.rsquare.w1400.jpg"
+                },
+                {
+                    "id": 307,
+                    "name": "Dropout",
+                    "link": "https://dropout.tv/",
+                    "icon": "https://signup.dropout.tv/Dropout_Organization_Logo_Square.png"
                 }
             ]
         },
@@ -176,12 +182,6 @@
                     "name": "Eurovision 2025",
                     "link": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2025",
                     "icon": "https://www.esc-plus.com/wp-content/uploads/2022/10/Eurovision-2023-Logo.jpg"
-                },
-                {
-                    "id": 501,
-                    "name": "American Films of 2024",
-                    "link": "https://en.wikipedia.org/wiki/List_of_American_films_of_2024",
-                    "icon": "https://storage.googleapis.com/afs-prod/media/e53811360eed4b8ba26b5f635d703a7c/3000.jpeg"
                 },
                 {
                     "id": 501,
