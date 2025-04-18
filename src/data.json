@@ -19,8 +19,8 @@
                 },
                 {
                     "id": 102,
-                    "name": "AITA Subreddit",
-                    "link": "https://www.reddit.com/r/AmItheAsshole/",
+                    "name": "Reddit",
+                    "link": "https://www.reddit.com/user/elvish_maiden/m/favorite_feeds/",
                     "icon": "https://www.investopedia.com/thmb/qDGHg2MCiUni812bkWihr-qdBbM=/1600x900/filters:no_upscale():max_bytes(150000):strip_icc()/Reddit-Logo-e9537b96b55349ac8eb77830f8470c95.jpg"
                 },
                 {
@@ -99,7 +99,7 @@
                 {
                     "id": 307,
                     "name": "Dropout",
-                    "link": "https://dropout.tv/",
+                    "link": "https://www.dropout.tv/",
                     "icon": "https://signup.dropout.tv/Dropout_Organization_Logo_Square.png"
                 }
             ]
