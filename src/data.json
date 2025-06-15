@@ -101,6 +101,12 @@
                     "name": "Dropout",
                     "link": "https://www.dropout.tv/",
                     "icon": "https://signup.dropout.tv/Dropout_Organization_Logo_Square.png"
+                },
+                {
+                    "id": 308,
+                    "name": "Britbox",
+                    "link": "https://www.britbox.com/us/",
+                    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuKWei5E6nS6brnuK8owFR8kkBoNB68cV58A&s"
                 }
             ]
         },
