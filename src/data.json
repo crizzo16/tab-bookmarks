@@ -99,8 +99,14 @@
                 {
                     "id": 307,
                     "name": "Dropout",
-                    "link": "https://www.dropout.tv/",
-                    "icon": "https://signup.dropout.tv/Dropout_Organization_Logo_Square.png"
+                    "link": "https://watch.dropout.tv/",
+                    "icon": "hhttps://static.wikia.nocookie.net/logopedia/images/5/5f/Dropout_Icon_2021.svg/revision/latest/scale-to-width-down/250?cb=20240329090541"
+                },
+                {
+                    "id": 309,
+                    "name": "Beacon",
+                    "link": "https://beacon.tv/",
+                    "icon": "https://play-lh.googleusercontent.com/n8hWvtGCZs0l-BAvi5trHhDehqzaORr4p3Wk4t1o_LzGinNDoQ1aiw3qqBbKuBhzjrk=w240-h480-rw"
                 },
                 {
                     "id": 308,
@@ -185,14 +191,14 @@
             "links": [
                 {
                     "id": 500,
-                    "name": "Eurovision 2025",
-                    "link": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2025",
+                    "name": "Eurovision 2026",
+                    "link": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2026",
                     "icon": "https://www.esc-plus.com/wp-content/uploads/2022/10/Eurovision-2023-Logo.jpg"
                 },
                 {
                     "id": 501,
-                    "name": "American Films of 2025",
-                    "link": "https://en.wikipedia.org/wiki/List_of_American_films_of_2025",
+                    "name": "American Films of 2026",
+                    "link": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026",
                     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a85bd3d0-0800-41cd-ab52-7c8d3c26a270/da90kvg-ba3b32ba-da4d-4a2a-9c2b-4a5b9d81dcf1.png/v1/fill/w_752,h_1062,q_70,strp/my_movie_poster_collage_by_masonartcarr_da90kvg-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0NSIsInBhdGgiOiJcL2ZcL2E4NWJkM2QwLTA4MDAtNDFjZC1hYjUyLTdjOGQzYzI2YTI3MFwvZGE5MGt2Zy1iYTNiMzJiYS1kYTRkLTRhMmEtOWMyYi00YTViOWQ4MWRjZjEucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.V94jA5kHYCdAdL1sztm5TuJo-UcQliNibSQG1WRa3TI"
                 }
             ]
@@ -238,6 +244,12 @@
                     "name": "Young Avengers Legendary Playmat",
                     "link": "https://www.figma.com/file/zWtQZlJwoQQzjX0yw2Xe6E/Signs?node-id=234%3A328&t=VEpRcIEFgM050HeZ-0",
                     "icon": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/12/young-avengers.jpg"
+                },
+                {
+                    "id": 701,
+                    "name": "Book Covers",
+                    "link": "https://www.figma.com/design/Hm3gy3PlZoIHVglWHoo4dN/Laser-Cutter-Stuff?node-id=605-156&t=qvRi4cBYh4apxDz9-0",
+                    "icon": "https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fbook-rebinding-for-a-year-now-i-know-i-can-still-improve-v0-rroycfewe1ae1.jpg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D5e20528d761ebf4cd2990f30046277b4d158a93b"
                 }
             ]
         }
